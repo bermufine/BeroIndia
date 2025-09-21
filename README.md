@@ -9,7 +9,8 @@
           "sourceCam": [
             "http://170.254.18.107/ZEE/index.m3u8"
           ],
-          "subtitleCam": "By Channel",
+          "subtitleCam": "All Channel",
+           "numberCam": "1000",
           "thumbCam": "https://od.lk/s/M18yODM1MTc5NjJf/zeecine.jpg",
           "titleCam": "ZEE TV"
         },
@@ -18,7 +19,8 @@
           "sourceCam": [
             "http://51.79.84.156:8082/ZeeTvHd/index.m3u8"
           ],
-          "subtitleCam": "By Channel",
+          "subtitleCam": "All Channel",
+           "numberCam": "1001",
           "thumbCam": "https://od.lk/s/M18yOTc1MDAwMDJf/Zee.png",
           "titleCam": "ZEE HD TV"
         },
@@ -27,7 +29,8 @@
           "sourceCam": [
             "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4550"
           ],
-          "subtitleCam": "ByChannel",
+          "subtitleCam": "All Channel",
+           "numberCam": "1002",
           "thumbCam": "https://od.lk/s/M18yOTc1MDAwMDFf/Bollywood.png",
           "titleCam": "BOLLYWOOD TV"
         },
@@ -36,7 +39,8 @@
           "sourceCam": [
             "http://51.79.84.156:8082/AndTvHd/index.m3u8"
           ],
-          "subtitleCam": "By Channel",
+          "subtitleCam": "All Channel",
+           "numberCam": "1003",
           "thumbCam": "https://od.lk/s/M18yOTc1MDAxNTdf/andtv.jpg",
           "titleCam": "AND TV"
         },
@@ -45,7 +49,8 @@
           "sourceCam": [
             "http://51.79.84.156:8082/ColorsHd/index.m3u8"
           ],
-          "subtitleCam": "By Channel",
+          "subtitleCam": "All Channel",
+           "numberCam": "1004",
           "thumbCam": "https://od.lk/s/M18yOTc0OTk5OTlf/colorsHD.jpeg",
           "titleCam": "COLORS HD"
         },
@@ -54,7 +59,8 @@
           "sourceCam": [
             "http://51.79.84.156:8082/ColorsRishtey/index.m3u8"
           ],
-          "subtitleCam": "By Channel",
+          "subtitleCam": "All Channel",
+           "numberCam": "1005",
           "thumbCam": "https://od.lk/s/M18yOTc1MDAwMDBf/colorsrishtey.jpeg",
           "titleCam": "COLORS RISHTEY HD"
         },
@@ -63,7 +69,8 @@
           "sourceCam": [
             "http://51.79.84.156:8082/ColorsCineplex/index.m3u8"
           ],
-          "subtitleCam": "By Channel",
+          "subtitleCam": "All Channel",
+           "numberCam": "1006",
           "thumbCam": "https://od.lk/s/M18yOTc0OTk5OTdf/colorscineplexHD.jpeg",
           "titleCam": "COLORS CINEPLEX HD"
         },
@@ -72,7 +79,8 @@
           "sourceCam": [
             "https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8"
           ],
-          "subtitleCam": "By Channel",
+          "subtitleCam": "All Channel",
+           "numberCam": "1007",
           "thumbCam": "https://od.lk/s/M18yOTI0NzcyMjlf/dighvijay.jpeg",
           "titleCam": "DIGHVIJAY TV"
         },
@@ -81,7 +89,8 @@
           "sourceCam": [
             "https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8"
           ],
-          "subtitleCam": "By Channel",
+          "subtitleCam": "All Channel",
+           "numberCam": "1008",
           "thumbCam": "https://od.lk/s/M18yOTI0NzcyMjhf/dheeran.jpeg",
           "titleCam": "DHEERAN TV"
         },
@@ -90,7 +99,8 @@
           "sourceCam": [
             "https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8"
           ],
-          "subtitleCam": "By Channel",
+          "subtitleCam": "All Channel",
+           "numberCam": "1009",
           "thumbCam": "https://od.lk/s/M18yODczOTEwODNf/star.jpg",
           "titleCam": "EAGLE ONE NEWS"
         },
@@ -99,7 +109,8 @@
           "sourceCam": [
             "https://etnowweblive.akamaized.net/hls/live/2034678/ETNOWMSL4/chunklist_2.m3u8"
           ],
-          "subtitleCam": "By Channel",
+          "subtitleCam": "All Channel",
+           "numberCam": "1010",
           "thumbCam": "https://od.lk/s/M18yODczOTEwODNf/star.jpg",
           "titleCam": "ET NOW TV"
         },
@@ -108,7 +119,8 @@
           "sourceCam": [
             "https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8"
           ],
-          "subtitleCam": "By Channel",
+          "subtitleCam": "All Channel",
+          "numberCam": "1011",
           "thumbCam": "https://od.lk/s/M18yOTI0NzcyMjdf/etnowswadesh.jpeg",
           "titleCam": "ET NOW SWADESH"
         },
@@ -117,10 +129,15 @@
           "sourceCam": [
             "https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8"
           ],
-          "subtitleCam": "By Channel",
+          "subtitleCam": "All Channel",
+          "numberCam": "1012",
           "thumbCam": "https://od.lk/s/M18yOTI0NzcyMjZf/firstindianews.jpeg",
           "titleCam": "FIRST INDIA NEWS"
-        },
+        }
+      ]
+    }
+  ]
+}
         {
           "descriptionCam": "GDNS Ludhiana tv is a private channel of India.",
           "sourceCam": [
