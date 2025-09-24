@@ -85,14 +85,14 @@
           "titleCam": "EAGLE ONE NEWS"
         },
         {
-          "descriptionCam": "Colors HD tv is a private channel of India.",
+          "descriptionCam": "Zee News Telegu tv is a private channel of India.",
           "sourceCam": [
-            "http://51.79.84.156:8082/ColorsHd/index.m3u8"
+            "https://d116gfrn8orazi.cloudfront.net/index.m3u8"
           ],
           "subtitleCam": "All Channel",
            "numberCam": "1004",
-          "thumbCam": "https://od.lk/s/M18yOTc0OTk5OTlf/colorsHD.jpeg",
-          "titleCam": "COLORS HD"
+          "thumbCam": "https://od.lk/s/NDZfODU5NDY2MzFf/zeenewtelegu.png",
+          "titleCam": "ZEE TELEGU"
         },
         {
           "descriptionCam": "Colors Rishtey HD tv is a private channel of India.",
