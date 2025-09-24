@@ -44,6 +44,46 @@
           "thumbCam": "https://od.lk/s/NDZfODU5NDY1MDRf/ZEENEWSTELEGU.png",
           "titleCam": "ZEE NEWS"
         },
+         {
+          "descriptionCam": "First India News tv is a private channel of India.",
+          "sourceCam": [
+            "https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "1012",
+          "thumbCam": "https://od.lk/s/M18yOTI0NzcyMjZf/firstindianews.jpeg",
+          "titleCam": "FIRST INDIA NEWS"
+        },
+        {
+          "descriptionCam": "ET Now Swadesh tv is a private channel of India.",
+          "sourceCam": [
+            "https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "1011",
+          "thumbCam": "https://od.lk/s/M18yOTI0NzcyMjdf/etnowswadesh.jpeg",
+          "titleCam": "ET NOW SWADESH"
+        },
+         {
+          "descriptionCam": "Dheeran tv is a private channel of India.",
+          "sourceCam": [
+            "https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+           "numberCam": "1008",
+          "thumbCam": "https://od.lk/s/M18yOTI0NzcyMjhf/dheeran.jpeg",
+          "titleCam": "DHEERAN TV"
+        },
+        {
+          "descriptionCam": "Eagle One News tv is a private channel of India.",
+          "sourceCam": [
+            "https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+           "numberCam": "1009",
+          "thumbCam": "https://od.lk/s/M18yODczOTEwODNf/star.jpg",
+          "titleCam": "EAGLE ONE NEWS"
+        },
         {
           "descriptionCam": "Colors HD tv is a private channel of India.",
           "sourceCam": [
@@ -85,26 +125,6 @@
           "titleCam": "DIGHVIJAY TV"
         },
         {
-          "descriptionCam": "Dheeran tv is a private channel of India.",
-          "sourceCam": [
-            "https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8"
-          ],
-          "subtitleCam": "All Channel",
-           "numberCam": "1008",
-          "thumbCam": "https://od.lk/s/M18yOTI0NzcyMjhf/dheeran.jpeg",
-          "titleCam": "DHEERAN TV"
-        },
-        {
-          "descriptionCam": "Eagle One News tv is a private channel of India.",
-          "sourceCam": [
-            "https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8"
-          ],
-          "subtitleCam": "All Channel",
-           "numberCam": "1009",
-          "thumbCam": "https://od.lk/s/M18yODczOTEwODNf/star.jpg",
-          "titleCam": "EAGLE ONE NEWS"
-        },
-        {
           "descriptionCam": "ET NOW tv is a private channel of India.",
           "sourceCam": [
             "https://etnowweblive.akamaized.net/hls/live/2034678/ETNOWMSL4/chunklist_2.m3u8"
@@ -113,26 +133,6 @@
            "numberCam": "1010",
           "thumbCam": "https://od.lk/s/M18yODczOTEwODNf/star.jpg",
           "titleCam": "ET NOW TV"
-        },
-        {
-          "descriptionCam": "ET Now Swadesh tv is a private channel of India.",
-          "sourceCam": [
-            "https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8"
-          ],
-          "subtitleCam": "All Channel",
-          "numberCam": "1011",
-          "thumbCam": "https://od.lk/s/M18yOTI0NzcyMjdf/etnowswadesh.jpeg",
-          "titleCam": "ET NOW SWADESH"
-        },
-        {
-          "descriptionCam": "First India News tv is a private channel of India.",
-          "sourceCam": [
-            "https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8"
-          ],
-          "subtitleCam": "All Channel",
-          "numberCam": "1012",
-          "thumbCam": "https://od.lk/s/M18yOTI0NzcyMjZf/firstindianews.jpeg",
-          "titleCam": "FIRST INDIA NEWS"
         }
       ]
     }
