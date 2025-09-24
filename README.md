@@ -95,44 +95,44 @@
           "titleCam": "ZEE TELEGU"
         },
         {
-          "descriptionCam": "Colors Rishtey HD tv is a private channel of India.",
+          "descriptionCam": "Good News Today tv is a private channel of India.",
           "sourceCam": [
-            "http://51.79.84.156:8082/ColorsRishtey/index.m3u8"
+            "https://feeds.intoday.in/gnt/api/master.m3u8"
           ],
           "subtitleCam": "All Channel",
            "numberCam": "1005",
-          "thumbCam": "https://od.lk/s/M18yOTc1MDAwMDBf/colorsrishtey.jpeg",
-          "titleCam": "COLORS RISHTEY HD"
+          "thumbCam": "https://od.lk/s/NDZfODU5NDY2NDVf/GoodNewsToday.png",
+          "titleCam": "GNT TV"
         },
         {
-          "descriptionCam": "Colors Cineplex HD tv is a private channel of India.",
+          "descriptionCam": "India Today tv is a private channel of India.",
           "sourceCam": [
-            "http://51.79.84.156:8082/ColorsCineplex/index.m3u8"
+            "https://feeds.intoday.in/hltapps/api/master.m3u8"
           ],
           "subtitleCam": "All Channel",
            "numberCam": "1006",
-          "thumbCam": "https://od.lk/s/M18yOTc0OTk5OTdf/colorscineplexHD.jpeg",
-          "titleCam": "COLORS CINEPLEX HD"
+          "thumbCam": "https://od.lk/s/NDZfODU5NDY2NDZf/IndiaToday.png",
+          "titleCam": "INDIA TODAY"
         },
         {
-          "descriptionCam": "Dighvijay tv is a private channel of India.",
+          "descriptionCam": "Aaj Tak tv is a private channel of India.",
           "sourceCam": [
-            "https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8"
+            "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8"
           ],
           "subtitleCam": "All Channel",
            "numberCam": "1007",
-          "thumbCam": "https://od.lk/s/M18yOTI0NzcyMjlf/dighvijay.jpeg",
-          "titleCam": "DIGHVIJAY TV"
+          "thumbCam": "https://od.lk/s/NDZfODU5NDY2NDRf/AajTak.png",
+          "titleCam": "AAJ TAK TV"
         },
         {
-          "descriptionCam": "ET NOW tv is a private channel of India.",
+          "descriptionCam": "Zee News tv is a private channel of India.",
           "sourceCam": [
-            "https://etnowweblive.akamaized.net/hls/live/2034678/ETNOWMSL4/chunklist_2.m3u8"
+            "https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8"
           ],
           "subtitleCam": "All Channel",
            "numberCam": "1010",
-          "thumbCam": "https://od.lk/s/M18yODczOTEwODNf/star.jpg",
-          "titleCam": "ET NOW TV"
+          "thumbCam": "https://od.lk/s/NDZfODU5NDY2NDdf/zeeNewsTV.png",
+          "titleCam": "ZEE NEWS TV"
         }
       ]
     }
