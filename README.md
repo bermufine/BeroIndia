@@ -5,44 +5,44 @@
       "name": "Movies",
       "videos": [
         {
-          "descriptionCam": "Zee TV is India's Fastest Growing News channel known for its quality programs, authentic news, and reliable breaking news. News World India brings you 24/7 Live Streaming, Headlines, Bulletins, Talk Shows, Infotainment and much more. Watch minute by minute updates of current affairs and happenings from India and all around the world! Watch our current affairs and infotainment shows: Ek Dum Seedhi Baat With Harish Aswal Bharat@9 With Kavendra Chauhan Chaar ka Chakravyuh With Parul Tyagi Saat ki Baat With Kajol Narayan",
+          "descriptionCam": "Aastha television is a private channel of India.",
           "sourceCam": [
-            "http://170.254.18.107/ZEE/index.m3u8"
+            "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/master.m3u8"
           ],
           "subtitleCam": "All Channel",
            "numberCam": "1000",
-          "thumbCam": "https://od.lk/s/M18yODM1MTc5NjJf/zeecine.jpg",
-          "titleCam": "ZEE TV"
+          "thumbCam": "https://od.lk/s/NDZfODU5NDU0NDdf/Aastha.png",
+          "titleCam": "AASTHA TV"
         },
         {
-          "descriptionCam": "Zee HD TV is India's Fastest Growing News channel known for its quality programs, authentic news, and reliable breaking news. News World India brings you 24/7 Live Streaming, Headlines, Bulletins, Talk Shows, Infotainment and much more. Watch minute by minute updates of current affairs and happenings from India and all around the world! Watch our current affairs and infotainment shows: Ek Dum Seedhi Baat With Harish Aswal Bharat@9 With Kavendra Chauhan Chaar ka Chakravyuh With Parul Tyagi Saat ki Baat With Kajol Narayan",
+          "descriptionCam": "DHARM SANDESH television is a private channel of India.",
           "sourceCam": [
-            "http://51.79.84.156:8082/ZeeTvHd/index.m3u8"
+            "https://aasthaott.akamaized.net/110923/smil:arihant.smil/master.m3u8"
           ],
           "subtitleCam": "All Channel",
            "numberCam": "1001",
-          "thumbCam": "https://od.lk/s/M18yOTc1MDAwMDJf/Zee.png",
-          "titleCam": "ZEE HD TV"
+          "thumbCam": "https://od.lk/s/NDZfODU5NDU0NTFf/dharmSandesh.jpg",
+          "titleCam": "DHARM SANDESH"
         },
         {
-          "descriptionCam": "Bollywood tv is a private channel of India.",
+          "descriptionCam": "AASTHA bHAJAN tv is a private channel of India.",
           "sourceCam": [
-            "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4550"
+            "https://aasthaott.akamaized.net/110923/smil:bhajan.smil/master.m3u8"
           ],
           "subtitleCam": "All Channel",
            "numberCam": "1002",
-          "thumbCam": "https://od.lk/s/M18yOTc1MDAwMDFf/Bollywood.png",
-          "titleCam": "BOLLYWOOD TV"
+          "thumbCam": "https://od.lk/s/NDZfODU5NDU0NDlf/aasthaBhajan.png",
+          "titleCam": "AASTHA bHAJAN"
         },
         {
-          "descriptionCam": "And HD tv is a private channel of India.",
+          "descriptionCam": "ZEE NEWS tv is a private channel of India.",
           "sourceCam": [
-            "http://51.79.84.156:8082/AndTvHd/index.m3u8"
+            "https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8"
           ],
           "subtitleCam": "All Channel",
            "numberCam": "1003",
-          "thumbCam": "https://od.lk/s/M18yOTc1MDAxNTdf/andtv.jpg",
-          "titleCam": "AND TV"
+          "thumbCam": "https://od.lk/s/NDZfODU5NDY1MDRf/ZEENEWSTELEGU.png",
+          "titleCam": "ZEE NEWS"
         },
         {
           "descriptionCam": "Colors HD tv is a private channel of India.",
